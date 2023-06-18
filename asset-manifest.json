@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rangers-and-Ruffians-Site/static/css/main.073c9b0a.css",
+    "main.js": "/Rangers-and-Ruffians-Site/static/js/main.d0016c3f.js",
+    "static/js/787.5436372b.chunk.js": "/Rangers-and-Ruffians-Site/static/js/787.5436372b.chunk.js",
+    "static/media/logo.svg": "/Rangers-and-Ruffians-Site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Rangers-and-Ruffians-Site/index.html",
+    "main.073c9b0a.css.map": "/Rangers-and-Ruffians-Site/static/css/main.073c9b0a.css.map",
+    "main.d0016c3f.js.map": "/Rangers-and-Ruffians-Site/static/js/main.d0016c3f.js.map",
+    "787.5436372b.chunk.js.map": "/Rangers-and-Ruffians-Site/static/js/787.5436372b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d0016c3f.js"
+  ]
+}
